@@ -37,7 +37,7 @@
 							<li><a href="index.html">Home</a></li>
 							<li><a href="intro.html">Introduce</a></li>
 							<li><a href="inter.html">Interested</a></li>
-							<li><a href="ect.html">Etc</a></li>
+							<li><a href="etc.html">Etc</a></li>
 						</ul>
 					</nav>
 
@@ -62,7 +62,7 @@
 							<span class="image main"><img src="images/food.gif" alt="" /></span>
 							<h2>Food</h2>
 							<p>각 지역과 각 나라의 유명한 맛집을 찾아가는 것은 제가 제일 좋아하는 관심사 입니다.</p>
-							<p>새로운 음식집의 풍경과 맛은 정말 신선하고 독특할 때가 많습니다. 가정집이나 한옥을 변형하거나 수영장을 변형하거나, 각 개인의 취향과 개성이 돋보이는 분위기와 대중화된 음식이 아닌 자신만의 레시피로 음식을 만드는 부분이 있어 보고 먹으면서 느끼는 게 많습니다.</p>
+							<p>새로운 음식집의 풍경과 맛은 정말 신선하고 독특할 때가 많습니다. 가정집이나 한옥을 변형하거나 수영장을 변형하거나, 각 개인의 취향과 <br>개성이 돋보이는 분위기와 대중화된 음식이 아닌 자신만의 레시피로 음식을 만드는 부분이 있어 보고 먹으면서 느끼는 게 많습니다.</p>
 							<p>늘 새로운 시각적인 효과와 입 안에서의 파티의 행복은 글로 표현할 수 없이 행복합니다.</p>
 							<p>Happiness is what I make.<p>
 						</div>
@@ -71,7 +71,7 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<div class="inner">
-							<section>
+							<setcion>
 								<h2>Follow</h2>
 								<ul class="icons">
 									<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
@@ -79,7 +79,7 @@
 									<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
 									<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
 								</ul>
-							</section>
+							</setcion>
 						</div>
 					</footer>
 
