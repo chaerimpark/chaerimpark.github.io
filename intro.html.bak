@@ -47,7 +47,7 @@
 							<h1>Introduce myself</h1>
 								<section>
 									<h2>Appeal</h2>
-									<p><strong>빛날 채 수풀 림</strong><br><b>2녀 1남 중 장녀</b>로 태어났고 <br>누구보다 <strong>멋진 인생을</strong> 살 수 있다고 자부하는 긍정적인 아이.</br>
+									<p>빛날<strong> 채</strong> 수풀 <strong>림</strong><br><b>2녀 1남 중 장녀</b>로 태어났고 <br>누구보다 <strong>멋진 인생을</strong> 살 수 있다고 자부하는 긍정적인 아이.</br>
 									<u>긍정적이며 열정적이고 꿈이 많은 style </u>
 									<br><strong>1997년 9월 27일</strong><br></p>
 									<hr />
@@ -75,7 +75,7 @@
 								<h2>Follow</h2>
 								<ul class="icons">
 									<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://github.com/chaerimpark" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
 									<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
 									<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
 								</ul>

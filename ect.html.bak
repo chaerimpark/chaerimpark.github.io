@@ -94,57 +94,37 @@ public class A {
 													<td><a href="https://blog.naver.com/reddotskirt/221373129885">쿠오리노 바로가기</a></td>
 												</tr>
 											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
 										</table>
 									</div>
 
-									<h3>Alternate</h3>
+									<h2>Music</h2>
 									<div class="table-wrapper">
 										<table class="alt">
 											<thead>
 												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
+													<th>제목</th>
+													<th>장르</th>
+													<th>바로가기</th>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
-													<td>Item One</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
+													<td><b>Make up (feat.Crush)</b></td>
+													<td>샘김(SAM KIM)/ 알밴비/ 소울 - 개인적으로 목소리가 섹시</td>
+													<td><a href="https://www.youtube.com/watch?v=r1iFxWW_WjY">바로 들어보기</a></td>
 												</tr>
 												<tr>
-													<td>Item Two</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
+													<td><b>P.A.D (We Just don't care)</b></td>
+													<td>John Legend/ 알밴비/ 소울 - 그냥 아늑하고 좋다 healing</td>
+													<td><a href="https://www.youtube.com/watch?v=ZwbNesQeods">바로 들어보기</a></td>
 												</tr>
 												<tr>
-													<td>Item Three</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Four</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Five</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
+													<td>말하려고 했던 말</td>
+													<td>CIFIKA/ 인디/ 일렉트로닉 - 독특하고 개성이 돋보인다</td>
+													<td><a href="https://www.youtube.com/watch?v=bFWn2OgXnCw">바로 들어보기</td>
 												</tr>
 											</tbody>
 											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
 											</tfoot>
 										</table>
 									</div>
