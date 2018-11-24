@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Chaerimpark's interest</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Chaerimpark's introduce</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="intro.html">Introduce</a></li>
+							<li><a href="inter.html">Interested</a></li>
+							<li><a href="ect.html">Ect</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>My Interest</h1>
+							<span class="image main"><img src="images/travel.jpg" alt="" /></span>
+							<h2>Travel</h2>
+							<p>그 곳의 삶이 반영되는 따뜻하고 소박한, 요란하지도 특별할 것도 없는 주변에 말없이 존재하는 모든 것들을 보고 느낄 수 있습니다. <br>일상에서 보이는 것들이 살아 숨 쉬며 시간에 제취를 지니고 있고, 더불어 사람들의 정서와 감정을 느끼게 해주고, 인간적인 삶을 조용하고 가식없이 전해줍니다.</p>
+							<p>Be open to your dreams, people. Embrace that distant shore. Because our mortal journey is over all too soon.</p>
+						</div>
+							<div class="inner">
+							<span class="image main"><img src="images/movie.jpg" alt="" /></span>
+							<h2>Movies</h2>
+							<p>뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토의 기타에 손을 댔고, 그러면서 ‘죽은 자들의 세상’에 들어가게 되는 이야기 입니다.</p>
+							<p>애니메이션이지만 멕시코의 문화와 작은 물건 하나하나, 풍경까지 모두 담아내는 영화, 어른들의 고정된 생각과 아이의 막힘없는 주장, 가족의 사랑은 물론이며 아이의 반항이 가져다 준 진실! 동시에 반성과 이해 등 이 모든걸 판타지로 연결한 기발하고 따뜻한 인생 영화</p>
+							<p>평소 사람들의 상상과 꿈을 스크린으로 옮겨서 시각화하고 개인의 가치관과 성장에 큰 도움이 됩니다. 꼭 한국이 아닌 다양한 나라의 영화를 보면서 마음의 안식도 찾을 수 있고 위에 말했듯, 그 나라의 문화와 풍경까지도 알 수 있습니다.</p>
+							<p>You don't have to forgive him but you shouldn't be forgetting him<p>
+						</div>
+						<div class="inner">
+							<span class="image main"><img src="images/food.gif" alt="" /></span>
+							<h2>Food</h2>
+							<p>뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토의 기타에 손을 댔고, 그러면서 ‘죽은 자들의 세상’에 들어가게 되는 이야기 입니다.</p>
+							<p>애니메이션이지만 멕시코의 문화와 작은 물건 하나하나, 풍경까지 모두 담아내는 영화, 어른들의 고정된 생각과 아이의 막힘없는 주장, 가족의 사랑은 물론이며 아이의 반항이 가져다 준 진실! 동시에 반성과 이해 등 이 모든걸 판타지로 연결한 기발하고 따뜻한 인생 영화</p>
+							<p>평소 사람들의 상상과 꿈을 스크린으로 옮겨서 시각화하고 개인의 가치관과 성장에 큰 도움이 됩니다. 꼭 한국이 아닌 다양한 나라의 영화를 보면서 마음의 안식도 찾을 수 있고 위에 말했듯, 그 나라의 문화와 풍경까지도 알 수 있습니다.</p>
+							<p>You don't have to forgive him but you shouldn't be forgetting him<p>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
