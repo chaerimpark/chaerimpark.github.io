@@ -75,15 +75,14 @@
 										<img src="images/03.jpg" alt="" />
 									</span>
 									<a href="ect.html">
-										<h2>Feugiat</h2>
+										<h2>Ect</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>other than that , various things</p>
 										</div>
 									</a>
 								</article>
-								<div class="footer">
-								<span class="image main"><img src="images/pic13.jpg" width="1500px" alt="" /></span>
-								</div>
+								</section>
+							</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>

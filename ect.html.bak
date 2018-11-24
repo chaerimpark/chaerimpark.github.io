@@ -1,0 +1,165 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Chaerimpark's Ect</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Chaerimpark's Ect</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="intro.html">Introduce</a></li>
+							<li><a href="inter.html">Interested</a></li>
+							<li><a href="ect.html">Ect</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Ect</h1>
+							
+								<h3>Perfom</h3>
+									<pre><code>
+public class A {
+	public static void main (stroing []ar) throw IOException{
+		system.out.print("나만");
+		string str="알고 있는 맛집 가르쳐 줄게요";
+		system.out.println(str);
+		</code></pre>
+<!--<span class="image main"><img src="images/pic13.jpg" alt="" /></span>-->
+							<!-- Table -->
+								<section>
+									<h2>Food & Cafe</h2>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>이름</th>
+													<th>부연 설명</th>
+													<th>바로가기</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><b>Red beef</b></td>
+													<td>로스트비프 덮밥에 반한 남포동 맛집</td>
+													<td><a href="https://blog.naver.com/thdus2155/221351707159">Red beeff 바로가기</a></td>
+												</tr>
+												<tr>
+													<td><b>Stone street</b></td>
+													<td>화덕피자와 청포도 샐러드가 맛있는 곳</td>
+													<td><a href="https://blog.naver.com/yjk2333/221102163236">Stone street 바로가기</a></td>
+												</tr>
+												<tr>
+													<td><b>와글와글</b></td>
+													<td>영도에 즉석떡볶이와 라밥이 맛있는 가성비 짱 맛집</td>
+													<td><a href="https://blog.naver.com/171223km?Redirect=Log&logNo=221323772115">와글와글 바로가기</a></td>
+												</tr>
+												<tr>
+													<td><b>Whoever</b></td>
+													<td>귀여운 찰리브라운초코를 맛볼 수 있는 또 가고 싶은 카페</td>
+													<td><a href="https://blog.naver.com/hayanwh/221378427224">Whoever 바로가기</a></td>
+												</tr>
+												<tr>
+													<td><b>쿠오리노</b></td>
+													<td>토스트가 맛있는 남포동에 생긴 멋진 신상 카페</td>
+													<td><a href="https://blog.naver.com/reddotskirt/221373129885">쿠오리노 바로가기</a></td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h3>Alternate</h3>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								</section>
+						</div>
+					</div>
+					
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
