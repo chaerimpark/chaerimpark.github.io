@@ -55,7 +55,7 @@
 									<a href="intro.html">
 										<h2>Introduce</h2>
 										<div class="content">
-											<p>Do you want to know me ?</p>
+											<p>may I tell you my introduce ?</p>
 										</div>
 									</a>
 								</article>
@@ -64,9 +64,9 @@
 										<img src="images/pic02.jpg" alt="" />
 									</span>
 									<a href="inter.html">
-										<h2>Interest</h2>
+										<h2>Lorem</h2>
 										<div class="content">
-											<p>I'll tell you everything I like and care about!</p>
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
 										</div>
 									</a>
 								</article>
