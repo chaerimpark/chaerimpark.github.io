@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Chaerimpark's etc</title>
+		<title>Chaerimpark's Etc</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,7 +17,7 @@
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Chaerimpark's etc</span>
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Chaerimpark's Etc</span>
 								</a>
 
 							<!-- Nav -->
@@ -37,14 +37,14 @@
 							<li><a href="index.html">Home</a></li>
 							<li><a href="intro.html">Introduce</a></li>
 							<li><a href="inter.html">Interested</a></li>
-							<li><a href="etc.html">etc</a></li>
+							<li><a href="etc.html">Etc</a></li>
 						</ul>
 					</nav>
 
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>etc</h1>
+							<h1>Etc</h1>
 							
 								<h3>Perfom</h3>
 									<pre><code>
@@ -56,7 +56,7 @@ public class A {
 		</code></pre>
 <!--<span class="image main"><img src="images/pic13.jpg" alt="" /></span>-->
 							<!-- Table -->
-								<setcion>
+								<section>
 									<h2>Food & Cafe</h2>
 									<div class="table-wrapper">
 										<table>
@@ -81,7 +81,7 @@ public class A {
 												<tr>
 													<td><b>와글와글</b></td>
 													<td>영도에 즉석떡볶이와 라밥이 맛있는 가성비 짱 맛집</td>
-													<td><a href="https://blog.naver.com/171223km?Rediretc=Log&logNo=221323772115">와글와글 바로가기</a></td>
+													<td><a href="https://blog.naver.com/171223km?Redirect=Log&logNo=221323772115">와글와글 바로가기</a></td>
 												</tr>
 												<tr>
 													<td><b>Whoever</b></td>
@@ -128,9 +128,9 @@ public class A {
 											</tfoot>
 										</table>
 									</div>
-								</setcion>
+								</section>
 
-								</setcion>
+								</section>
 						</div>
 					</div>
 					
